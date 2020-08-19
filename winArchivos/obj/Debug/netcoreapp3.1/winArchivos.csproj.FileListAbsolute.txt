@@ -1,0 +1,15 @@
+D:\1desconprimirdo\UNT\comunicacion\s6\winArchivos\winArchivos\bin\Debug\netcoreapp3.1\winArchivos.exe
+D:\1desconprimirdo\UNT\comunicacion\s6\winArchivos\winArchivos\bin\Debug\netcoreapp3.1\winArchivos.deps.json
+D:\1desconprimirdo\UNT\comunicacion\s6\winArchivos\winArchivos\bin\Debug\netcoreapp3.1\winArchivos.runtimeconfig.json
+D:\1desconprimirdo\UNT\comunicacion\s6\winArchivos\winArchivos\bin\Debug\netcoreapp3.1\winArchivos.runtimeconfig.dev.json
+D:\1desconprimirdo\UNT\comunicacion\s6\winArchivos\winArchivos\bin\Debug\netcoreapp3.1\winArchivos.dll
+D:\1desconprimirdo\UNT\comunicacion\s6\winArchivos\winArchivos\bin\Debug\netcoreapp3.1\winArchivos.pdb
+D:\1desconprimirdo\UNT\comunicacion\s6\winArchivos\winArchivos\obj\Debug\netcoreapp3.1\winArchivos.csprojAssemblyReference.cache
+D:\1desconprimirdo\UNT\comunicacion\s6\winArchivos\winArchivos\obj\Debug\netcoreapp3.1\winArchivos.Form1.resources
+D:\1desconprimirdo\UNT\comunicacion\s6\winArchivos\winArchivos\obj\Debug\netcoreapp3.1\winArchivos.csproj.GenerateResource.cache
+D:\1desconprimirdo\UNT\comunicacion\s6\winArchivos\winArchivos\obj\Debug\netcoreapp3.1\winArchivos.AssemblyInfoInputs.cache
+D:\1desconprimirdo\UNT\comunicacion\s6\winArchivos\winArchivos\obj\Debug\netcoreapp3.1\winArchivos.AssemblyInfo.cs
+D:\1desconprimirdo\UNT\comunicacion\s6\winArchivos\winArchivos\obj\Debug\netcoreapp3.1\winArchivos.csproj.CoreCompileInputs.cache
+D:\1desconprimirdo\UNT\comunicacion\s6\winArchivos\winArchivos\obj\Debug\netcoreapp3.1\winArchivos.dll
+D:\1desconprimirdo\UNT\comunicacion\s6\winArchivos\winArchivos\obj\Debug\netcoreapp3.1\winArchivos.pdb
+D:\1desconprimirdo\UNT\comunicacion\s6\winArchivos\winArchivos\obj\Debug\netcoreapp3.1\winArchivos.genruntimeconfig.cache
